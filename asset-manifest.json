@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/dev-jobs/static/css/main.6b5a54bc.css",
+    "main.js": "/dev-jobs/static/js/main.4ddecbdd.js",
+    "static/media/remixicon.svg?t=1690730386070": "/dev-jobs/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/dev-jobs/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/dev-jobs/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/remixicon.woff?t=1690730386070": "/dev-jobs/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/dev-jobs/static/media/remixicon.821a773710130bcf4674.woff2",
+    "index.html": "/dev-jobs/index.html",
+    "main.6b5a54bc.css.map": "/dev-jobs/static/css/main.6b5a54bc.css.map",
+    "main.4ddecbdd.js.map": "/dev-jobs/static/js/main.4ddecbdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b5a54bc.css",
+    "static/js/main.4ddecbdd.js"
+  ]
+}
